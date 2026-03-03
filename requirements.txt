@@ -11,22 +11,22 @@ notebook
 jupyterlab
 
 # Signal processing
-scikit-signal
-python-control
+#scikit-signal
+#python-control
 
 # For digital filter design
-filterpy
+#filterpy
 
 # For Fourier / spectral analysis
-spectrum
+#spectrum
 
 # Optional visualization tools
-plotly
-bokeh
-seaborn
+#plotly
+#bokeh
+#seaborn
 
 # Optional statistical / numerical analysis
-statsmodels
+#statsmodels
 
 # Optional notebook utilities
-ipython
+#ipython
