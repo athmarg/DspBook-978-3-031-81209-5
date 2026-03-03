@@ -1,0 +1,32 @@
+# Basic Python packages
+numpy
+scipy
+matplotlib
+pandas
+
+# Interactive notebooks
+ipywidgets
+jupyter
+notebook
+jupyterlab
+
+# Signal processing
+scikit-signal
+python-control
+
+# For digital filter design
+filterpy
+
+# For Fourier / spectral analysis
+spectrum
+
+# Optional visualization tools
+plotly
+bokeh
+seaborn
+
+# Optional statistical / numerical analysis
+statsmodels
+
+# Optional notebook utilities
+ipython
