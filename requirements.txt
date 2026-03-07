@@ -11,6 +11,7 @@ notebook
 jupyterlab
 
 # Signal processing
+scipy
 #scikit-signal
 #python-control
 
