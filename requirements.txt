@@ -12,6 +12,7 @@ jupyterlab
 
 # Signal processing
 scipy
+simpy
 #scikit-signal
 #python-control
 
