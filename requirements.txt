@@ -1,34 +1,25 @@
-# Basic Python packages
-numpy
-scipy
-matplotlib
-pandas
+# Basic Python & Numerical packages
+numpy>=1.22.0
+scipy>=1.8.0
+matplotlib>=3.5.0
+pandas>=1.4.0
+sympy>=1.10.0
 
-# Interactive notebooks
-ipywidgets
-jupyter
-notebook
-jupyterlab
+# Interactive notebooks & UI
+ipywidgets>=7.6.0
+jupyter>=1.0.0
+notebook>=6.4.0
+jupyterlab>=3.3.0
 
-# Signal processing
-scipy
-sympy
-#scikit-signal
-#python-control
+# Control Systems & Frequency Analysis (Bode, Routh-Hurwitz, Transfer Functions)
+control>=0.9.3
 
-# For digital filter design
-#filterpy
+# Advanced Signal & Spectral Analysis (DFT, FFT, Power Spectrum)
+spectrum>=0.8.1
 
-# For Fourier / spectral analysis
-#spectrum
+# Digital Filter Design & Estimation (FIR, IIR filters, Kalman/State estimation)
+filterpy>=1.4.5
 
-# Optional visualization tools
-#plotly
-#bokeh
-#seaborn
-
-# Optional statistical / numerical analysis
-#statsmodels
-
-# Optional notebook utilities
-#ipython
+# Optional visualization & advanced plotting
+seaborn>=0.11.0
+plotly>=5.0.0
